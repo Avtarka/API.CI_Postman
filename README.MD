@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/q5gcfxlgj38tv7l8/branch/main?svg=true)](https://ci.appveyor.com/project/Avtarka/api-ci-postman-oldor/branch/main)
